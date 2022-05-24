@@ -1,0 +1,15 @@
+body{
+    background-color: cornsilk;
+    padding-left: 100px;
+}
+
+h1{
+    color:darkred;
+    padding-left: 250px;
+}
+
+h2{
+    background-color:darksalmon;
+    padding-left: 20px;
+    width: 600px;
+}
